@@ -1,0 +1,29 @@
+package jp.co.run;
+
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class DateValid {
+
+	public static boolean isDate(String date, String pattern) {
+		DateFormat dateFormat = null;
+			
+		try {
+			dateFormat = new SimpleDateFormat(pattern);
+			dateFormat.
+			return true;
+		} catch (Exception e) {}
+		
+		return false;
+	}
+	
+	public static boolean isDateFromTo(Date date1, Date date2) {
+		
+		int result = DateUtils.compareDate(date1, date2);
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(isDate("2018-2018-2018", "yyyy-MM-dd"));
+	}
+}

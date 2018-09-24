@@ -1,0 +1,135 @@
+package jp.co.run;
+
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+import java.util.TimeZone;
+
+public class DateUtils {
+
+	/**
+	 * Compare two date, with date param is a string.
+	 * 
+	 * @param date1
+	 *        The string of date 1.
+	 * @param date2
+	 *        The string of date 2.
+	 * @param pattern
+	 *        The pattern of format date.
+	 *        
+	 * @return 0 if date1 = date2
+	 *         1 if date1 > date2
+	 *        -1 if date1 < date2
+	 */
+	public static int compareDate(String date1, String date2, String pattern) {
+		
+		Date date3 = convertStringToDate(date1, pattern);
+		Date date4 = convertStringToDate(date2, pattern);
+		
+		int result = compareDate(date3, date4);
+		
+		return -1;
+	}
+	
+	/**
+	 * Compare two date, with date param is Date object.
+	 * 
+	 * @param date1
+	 * @param date2
+	 * @return 0 if date1 = date2
+	 *         1 if date1 > date2
+	 *        -1 if date1 < date2
+	 */
+	public static int compareDate(Date date1, Date date2) {
+		
+		long time1 = date1.getTime();
+		long time2 = date2.getTime();
+		
+		if (time1 == time2) {
+			return 0;
+		} else if (time1 > time2) {
+			return 1;
+		} else {
+			return -1;
+		}
+	}
+	
+	/**
+	 * Convert date object to string with pattern.
+	 * 
+	 * @param date
+	 *        The date object to convert to string.
+	 * @param pattern
+	 *        The pattern for date format.
+	 * @return date string.
+	 */
+	public static String convertDateToString(Date date, String pattern) {
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		return dateFormat.format(date);
+	}
+	
+	/**
+	 * Convert a date string to Date object with pattern.
+	 * 
+	 * @param date
+	 *        date string to convert to Date object.
+	 * @param pattern
+	 *        The pattern for simple date format.
+	 * @return date object if convert success, else return null.
+	 */
+	public static Date convertStringToDate(String date, String pattern) {
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		Date       newDate    = null;
+		
+		if (!DateValid.isDate(date, pattern)) {
+			return null;
+		}
+		
+		try {
+			newDate = dateFormat.parse(date);
+		} catch (ParseException e) {}
+		
+		return newDate;
+	}
+	
+	/**
+	 * To get current date with pattern and time zone.
+	 * 
+	 * @param pattern
+	 *        The pattern for simple date format.
+	 * @param timeZone
+	 * @return date string.
+	 */
+	public static String getCurrentDate(String pattern, String timeZone) {
+		Calendar calendar = Calendar.getInstance(TimeZone.getTimeZone(timeZone));
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		StringBuffer currentDate = new StringBuffer();
+		
+		currentDate.append(dateFormat.format(calendar.getTime()));
+		
+		return currentDate.toString();
+	}
+	
+	/**
+	 * To get last day of month.
+	 * 
+	 * @param year
+	 * @param month
+	 * @param pattern
+	 * 
+	 * @return date string.
+	 */
+	public static String getLastDayOfMonth(int year, int month, String pattern) {
+		Calendar calendar = new GregorianCalendar(year, month, 0);
+		Date date = calendar.getTime();
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		StringBuffer dateString = new StringBuffer();
+		
+		dateString.append(dateFormat.format(date));
+		
+		return dateString.toString();
+	}
+}

@@ -1,0 +1,74 @@
+package jp.co.run;
+
+public class StringValid {
+	
+	/*
+	 * Check a string is empty or null.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is empty or null, else return false.
+	 */
+	public static boolean isEmpty(String str) {
+		return str == null || str.length() == 0;
+	}
+	
+	/*
+	 * Check a string is not empty and not null.
+	 * 
+	 * @param str
+	 *        The string to check, may be null.
+	 * @return true if the string is NOT empty and NOT null, else return false.
+	 */
+	public static boolean isNotEmpty(String str) {
+		return !str.isEmpty();
+	}
+
+	/*
+	 * Check a string is whitespace, empty or null.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is null, empty or whitespace, else return false.
+	 */
+	public static boolean isBlank(String str) {
+		String regex = "^[ ]*$";
+		
+		if (isEmpty(str)) {
+			return true;
+		}
+		
+		return str.matches(regex);
+	}
+	
+	/*
+	 * Check a string is NOT empty, NOT null and NOT whitespace only.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is NOT empty, NOT null and NOT whitespace, else return false.
+	 * */
+	public static boolean isNotBlank(String str) {
+		return !isBlank(str);
+	}
+	
+	/*
+	 * 
+	 * @param str
+	 * @param maxLength 
+	 * 
+	 * @return true 
+	 * */
+	public static boolean isMaxLength(String str, int maxLength) {
+		
+		int length = str.length();
+		
+		return length == maxLength;
+	}
+	
+	public static boolean 
+	
+	public static void main(String[] args) {
+		System.out.println(isNotBlank(""));
+	}
+}

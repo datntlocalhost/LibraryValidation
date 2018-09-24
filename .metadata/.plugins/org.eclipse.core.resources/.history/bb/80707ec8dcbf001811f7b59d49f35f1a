@@ -1,0 +1,12 @@
+package jp.co.run;
+
+public class StringUtils {
+
+	public static String nullToString(Object obj) {
+		if (obj == null) {
+			return "";
+		}
+		return obj.toString();
+	}
+	
+}

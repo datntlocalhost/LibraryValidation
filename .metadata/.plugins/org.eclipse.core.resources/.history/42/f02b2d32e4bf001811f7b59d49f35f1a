@@ -1,0 +1,22 @@
+package jp.co.run;
+
+public class StringUtils {
+
+	/*
+	 * 
+	 * */
+	public static String nullToString(Object obj) {
+		if (obj == null) {
+			return "null";
+		}
+		return obj.toString();
+	}
+	
+	public static String nullToZero(Object obj) {
+		if (obj == null) {
+			return "zero";
+		}
+		return obj.toString();
+	}
+	
+}

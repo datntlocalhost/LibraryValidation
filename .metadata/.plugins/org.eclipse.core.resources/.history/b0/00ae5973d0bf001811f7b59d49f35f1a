@@ -1,0 +1,26 @@
+package jp.co.run;
+
+public class NumberValid {
+	
+	/*
+	 * Check if a string is number format, can not be empty or null.
+	 * 
+	 * @param number
+	 *        The string to check.
+	 * @return true if a string is number format, else return false.
+	 */
+	public static boolean isNumber(String number) {
+		String regex = "^[0-9]*$";
+		
+		if (StringValid.isBlank(number)) {
+			return false;
+		}
+		
+		return number.matches(regex);
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(isNumber("     "));
+	}
+
+}

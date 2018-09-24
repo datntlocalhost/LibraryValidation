@@ -1,0 +1,92 @@
+package jp.co.run.common;
+
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class ValidationCommon {
+	
+	/*
+	 * Check a string is null
+	 * 
+	 * @param s
+	 * @return true if the string is null, else return false.
+	 */
+	public static boolean isNull(String s) {
+		return s == null;
+	}
+	
+	/*
+	 * Check a string input is valid email format.
+	 * 
+	 * @param email
+	 * @return true if a string is valid email format, else return false
+	 */
+	public static boolean isEmail(String email) {
+		String regex = "^[^\\s\\W@]+@[^\\s\\W@]+\\.[^\\s@]+$";
+		return email.matches(regex);
+	}
+	
+	/*
+	 * Check a string input is valid date format (yyyy-MM-dd).
+	 * 
+	 * @param date
+	 * @return true if a string is valid date format, else return false.
+	 */
+	public static boolean isDate(String date) {
+		String regex = "^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])*$";
+		return date.matches(regex);
+	}
+	
+	public static boolean dateRange(String dateFrom, String dateTo) {
+		if (!isDate(dateFrom) || !isDate(dateTo)) {
+			return false;
+		}
+		
+		try {
+			Date to   = stringToDate(dateTo);
+			Date from = stringToDate(dateFrom);
+			
+			if (to.getTime() >= from.getTime()) {
+				return true;
+			}
+			
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+	
+	/*
+	 * Convert a string date format to date object.
+	 * 
+	 * @param date 
+	 * @return date
+	 */
+	public static Date stringToDate(String date) throws Exception {
+		if (!isDate(date)) {
+			throw new Exception("Invalid date format");
+		}
+		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+		Date newDate = dateFormat.parse(date);
+		return newDate;
+	}
+	
+	/*
+	 * Convert date object to string.
+	 * 
+	 * @param date
+	 * @return date string
+	 */
+	public static String dateToString(Date date) {
+		DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+		return dateFormat.format(date);
+	}
+	
+	public static void main(String[] args) {
+		
+		System.out.println(dateRange("2018-01", "2018-02-02"));
+	}
+
+}

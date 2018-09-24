@@ -1,0 +1,9 @@
+package jp.co.run;
+
+public class FileValid {
+
+	
+	public static boolean isFile(String path) {
+		
+	}
+}

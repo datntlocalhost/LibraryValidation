@@ -1,0 +1,14 @@
+package jp.co.run;
+
+public class EmailValid {
+
+	/*
+	 * Check a email input is valid email format.
+	 * 
+	 * @param email
+	 * @return 
+	 * */
+	public static boolean isEmail(String email) {
+		
+	}
+}

@@ -1,0 +1,17 @@
+package jp.co.run;
+
+import java.io.File;
+
+public class FileValid {
+
+	
+	public static boolean isFile(String path) {
+		File file = new File(path);
+		if (file.exists()) {
+			if (file.isFile()) {
+				return true;
+			}
+		}
+		return false;
+	}
+}

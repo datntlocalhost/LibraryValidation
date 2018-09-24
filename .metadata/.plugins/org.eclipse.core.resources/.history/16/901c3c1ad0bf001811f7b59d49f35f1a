@@ -1,0 +1,13 @@
+package jp.co.run;
+
+public class NumberValid {
+	
+	public static boolean isNumber(String number) {
+		String regex = "^[0-9]*$";
+		
+		if (StringValid.isEmpty(number)) {
+			return false;
+		}
+	}
+
+}

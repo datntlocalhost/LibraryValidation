@@ -1,0 +1,8 @@
+package jp.co.run;
+
+public class EmailValid {
+
+	public static boolean isEmail(String email) {
+		
+	}
+}
