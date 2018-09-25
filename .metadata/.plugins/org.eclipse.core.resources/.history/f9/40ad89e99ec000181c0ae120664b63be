@@ -69,21 +69,20 @@ public class DateUtils {
 	 * @param date
 	 *        The date object to convert to string.
 	 * @param pattern
-	 *        The pattern for date format.
+	 *        The pattern for date format. Set null will using default pattern.
 	 * @return date string. Return empty string if date is null
 	 */
 	public static String convertDateToString(Date date, String pattern) {
 		StringBuilder dateString = new StringBuilder();
+		DateFormat dateFormat = new SimpleDateFormat();
 		
 		if (date == null) {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
-			return dateString.toString();
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat = new SimpleDateFormat(pattern);
 		}
-		
-		DateFormat dateFormat = new SimpleDateFormat(pattern);
 		
 		dateString.append(dateFormat.format(date));
 		
@@ -119,22 +118,24 @@ public class DateUtils {
 	 * To get current date with pattern and time zone.
 	 * 
 	 * @param pattern
-	 *        The pattern for simple date format.
+	 *        The pattern for simple date format. Set null will using default pattern.
 	 * @param timeZone
-	 * 		  The time zone.
+	 * 		  The time zone. Set null will using default time zone
 	 * @return date string. Return a empty string if input is invalid.
 	 */
 	public static String getCurrentDate(String pattern, String timeZone) {
 		StringBuffer currentDate = new StringBuffer();	
 		Calendar calendar = new GregorianCalendar();
+		DateFormat dateFormat = new SimpleDateFormat();
 		
-		if (StringValid.isNullOrEmpty(pattern) || StringValid.isNullOrEmpty(timeZone)) {
-			return currentDate.toString();
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat = new SimpleDateFormat(pattern);
 		}
 		
-		DateFormat dateFormat = new SimpleDateFormat(pattern);
-		TimeZone timeZone1 = TimeZone.getTimeZone(timeZone);
-		dateFormat.setTimeZone(timeZone1);
+		if (!StringValid.isNullOrEmpty(timeZone)) {
+			TimeZone timeZone1 = TimeZone.getTimeZone(timeZone);
+			dateFormat.setTimeZone(timeZone1);
+		}
 		
 		currentDate.append(dateFormat.format(calendar.getTime()));
 		
@@ -149,7 +150,7 @@ public class DateUtils {
 	 * @param month
 	 *        The month have to between 1 to 12
 	 * @param pattern
-	 *        The pattern for simple date format
+	 *        The pattern for simple date format. Set null will using default pattern.
 	 * @return date string. Return empty string if input is invalid.
 	 */
 	public static String getLastDayOfMonth(int year, int month, String pattern) {
@@ -163,16 +164,21 @@ public class DateUtils {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
-			return dateString.toString();
-		}
-		
 		Calendar calendar = new GregorianCalendar(year, month, 0);
 		Date date = calendar.getTime();
-		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		DateFormat dateFormat = new SimpleDateFormat();
+		
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat = new SimpleDateFormat(pattern);
+		}
 		
 		dateString.append(dateFormat.format(date));
 		
 		return dateString.toString();
+	}
+	
+	public static void main(String[] args) {
+		Date date = new Date();
+		System.out.println(convertStringToDate("25/099/2008, "dd/MM/yyyy"));
 	}
 }

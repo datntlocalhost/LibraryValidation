@@ -22,6 +22,9 @@ public class StringUtils {
 	 * @return empty string if object is null, else convert object to string.
 	 */
 	public static String nullToZero(Object obj) {
-		return nullToString(obj);
+		if (obj == null) {
+			return "";
+		}
+		return obj.toString();
 	}
 }

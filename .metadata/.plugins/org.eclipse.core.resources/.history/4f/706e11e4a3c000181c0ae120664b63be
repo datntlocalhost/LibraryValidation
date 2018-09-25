@@ -163,13 +163,13 @@ public class DateUtils {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
-			return dateString.toString();
-		}
-		
 		Calendar calendar = new GregorianCalendar(year, month, 0);
 		Date date = calendar.getTime();
 		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat 
+		}
 		
 		dateString.append(dateFormat.format(date));
 		

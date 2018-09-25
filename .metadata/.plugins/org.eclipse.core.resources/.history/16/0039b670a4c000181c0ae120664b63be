@@ -165,4 +165,12 @@ public class StringValid {
 		}
 		return false;
 	}
+	
+	public static void main(String[] args) {
+		System.out.println(isCharacterTwoByte('全'));
+		System.out.println(isCharacterTwoByte('ａ'));
+		System.out.println(isCharacterTwoByte('a'));
+		System.out.println(isCharacterTwoByte(null));
+		System.out.println(isCharacterTwoByte("全全全全全a"));
+	}
 }

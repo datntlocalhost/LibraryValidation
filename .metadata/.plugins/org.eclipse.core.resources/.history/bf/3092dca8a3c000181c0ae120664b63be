@@ -121,20 +121,24 @@ public class DateUtils {
 	 * @param pattern
 	 *        The pattern for simple date format.
 	 * @param timeZone
-	 * 		  The time zone.
+	 * 		  The time zone. Set null will using default time zone
 	 * @return date string. Return a empty string if input is invalid.
 	 */
 	public static String getCurrentDate(String pattern, String timeZone) {
 		StringBuffer currentDate = new StringBuffer();	
 		Calendar calendar = new GregorianCalendar();
 		
-		if (StringValid.isNullOrEmpty(pattern) || StringValid.isNullOrEmpty(timeZone)) {
-			return currentDate.toString();
+		
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat = new SimpleDateFormat(pattern);
+		}
+		
+		if (!StringValid.isNullOrEmpty(timeZone)) {
+			TimeZone timeZone1 = TimeZone.getTimeZone(timeZone);
+			dateFormat.setTimeZone(timeZone1);
 		}
 		
 		DateFormat dateFormat = new SimpleDateFormat(pattern);
-		TimeZone timeZone1 = TimeZone.getTimeZone(timeZone);
-		dateFormat.setTimeZone(timeZone1);
 		
 		currentDate.append(dateFormat.format(calendar.getTime()));
 		
@@ -149,7 +153,7 @@ public class DateUtils {
 	 * @param month
 	 *        The month have to between 1 to 12
 	 * @param pattern
-	 *        The pattern for simple date format
+	 *        The pattern for simple date format. Set null will using default pattern.
 	 * @return date string. Return empty string if input is invalid.
 	 */
 	public static String getLastDayOfMonth(int year, int month, String pattern) {
@@ -163,13 +167,13 @@ public class DateUtils {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
-			return dateString.toString();
-		}
-		
 		Calendar calendar = new GregorianCalendar(year, month, 0);
 		Date date = calendar.getTime();
-		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		DateFormat dateFormat = new SimpleDateFormat();
+		
+		if (!StringValid.isNullOrEmpty(pattern)) {
+			dateFormat = new SimpleDateFormat(pattern);
+		}
 		
 		dateString.append(dateFormat.format(date));
 		

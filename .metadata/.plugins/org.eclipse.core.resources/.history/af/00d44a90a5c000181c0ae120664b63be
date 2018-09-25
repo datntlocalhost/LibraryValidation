@@ -4,8 +4,6 @@ public class EmailValid {
 
 	/**
 	 * Check a email input is valid email format.
-	 * Change the regex to: ^[^\s\W@]+@[^\s\W@]+\.[^\s@]+$ to use in javascript
-	 * or orther language.
 	 * 
 	 * @param email
 	 *        The email to check. Can not be null

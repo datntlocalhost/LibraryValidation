@@ -171,6 +171,8 @@ public class DateUtils {
 		Date date = calendar.getTime();
 		DateFormat dateFormat = new SimpleDateFormat(pattern);
 		
+		
+		
 		dateString.append(dateFormat.format(date));
 		
 		return dateString.toString();

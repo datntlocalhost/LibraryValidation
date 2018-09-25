@@ -19,9 +19,15 @@ public class StringUtils {
 	 * Convert object to string, if object is null, convert to "zero" string.
 	 * 
 	 * @param obj
-	 * @return empty string if object is null, else convert object to string.
+	 * @param "zero" string if object is null, else convert object to string.
 	 */
 	public static String nullToZero(Object obj) {
-		return nullToString(obj);
+		if (obj == null) {
+			return "";
+		}
+		return obj.toString();
+	}
+	
+	public static void main(String[] args) {
 	}
 }
