@@ -2,7 +2,7 @@ package jp.co.run;
 
 public class StringUtils {
 
-	/*
+	/**
 	 * Convert object to string, if object is null, convert to "null" string.
 	 * 
 	 * @param obj
@@ -15,7 +15,7 @@ public class StringUtils {
 		return obj.toString();
 	}
 	
-	/*
+	/**
 	 * Convert object to string, if object is null, convert to "zero" string.
 	 * 
 	 * @param obj
@@ -26,5 +26,8 @@ public class StringUtils {
 			return "zero";
 		}
 		return obj.toString();
+	}
+	
+	public static void main(String[] args) {
 	}
 }

@@ -12,9 +12,9 @@ public class NumberValid {
 	public static boolean isNumber(String number) {
 		
 		//The regex just allow a string contain numeric character.
-		String regex = "^[0-9]*$";
+		String regex = "[+-]?\\d*(\\.\\d+)?";
 		
-		if (StringValid.isBlank(number)) {
+		if (StringValid.isNullOrEmpty(number)) {
 			return false;
 		}
 		
@@ -29,13 +29,16 @@ public class NumberValid {
 	 * @return true if the string is integer number, else return false.
 	 */
 	public static boolean isIntegerNumber(String number) {
+		if (!isNumber(number)) {
+			return false;
+		}
+		
 		try {
-			
 			Integer.parseInt(number);
-			return true;
-			
-		} catch (Exception e) {}
-		return false;
+		} catch (Exception e) {
+			return false;
+		}
+		return true;
 	}
 	
 	/**
@@ -46,13 +49,15 @@ public class NumberValid {
 	 * @return true if the string is float number format, else return false.
 	 */
 	public static boolean isFloatNumber(String number) {
-		try {
-			
-			Float.parseFloat(number);
-			return true;
-			
-		} catch (NumberFormatException e) {}
+		if (!isNumber(number)) {
+			return false;
+		}
 		
-		return false;
+		try {
+			Float.parseFloat(number);
+		} catch (Exception e) {
+			return false;
+		}
+		return true;
 	}
 }

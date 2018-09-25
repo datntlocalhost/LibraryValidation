@@ -6,31 +6,59 @@ import java.util.Date;
 
 public class DateValid {
 
+	/**
+	 * Check if date string input is valid date parttern format.
+	 * 
+	 * @param date
+	 *        The string date to check. Can not be null or empty.
+	 * @param pattern
+	 *        The pattern for simple date format. Can not be null or empty.
+	 * @return true if the date string input is valid date pattern format, else return false.
+	 */
 	public static boolean isDate(String date, String pattern) {
-		DateFormat dateFormat = null;
-			
-		try {
-			dateFormat = new SimpleDateFormat(pattern);
-			dateFormat.format(date);
-			return true;
-		} catch (Exception e) {}
+		//Check if date and pattern string is null or empty, then return false.
+		if (StringValid.isNullOrEmpty(date) || StringValid.isNullOrEmpty(pattern)) {
+			return false;
+		}
 		
-		return false;
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+		dateFormat.setLenient(false);
+		
+		try {
+			dateFormat.parse(date.trim());
+		} catch (Exception e) {
+			return false;
+		}
+		
+		return true;
+	}
+	
+	/**
+	 * Check if a date string is correct with pattern format,
+	 * 
+	 * @param date
+	 *        The date string to check.
+	 * @param pattern
+	 *        The pattern date format to compare.
+	 * @return true if the date string is correct, else return false.
+	 */
+	public static boolean isFormatDate(String date, String pattern) {
+		return isDate(date, pattern);
 	}
 	
 	/**
 	 * Check if date to is larger than date from.
 	 * 
 	 * @param dateTo
-	 *        Date object to check.
+	 *        Date object to check. Can not be null.
 	 * @param dateFrom
-	 *        Date object to check.
+	 *        Date object to check. Can not be null.
 	 * @return true if dateTo < dateFrom, else return false.
 	 */
 	public static boolean isDateFromTo(Date dateTo, Date dateFrom) {
 		int result = DateUtils.compareDate(dateTo, dateFrom);
 		
-		if (result == -1) {
+		if (result == -1 || result == -2) {
 			return true;
 		}
 		return false;
@@ -40,21 +68,22 @@ public class DateValid {
 	 * Check if date to is larger than date from.
 	 * 
 	 * @param dateTo
-	 *        Date string to check.
+	 *        Date string to check. Can not be null or empty.
 	 * @param dateFrom
-	 *        Date string to check.
+	 *        Date string to check. Can not be null or empty.
 	 * @param pattern
-	 *        The pattern for simple date format.
+	 *        The pattern for simple date format. Can not be null or empty.
 	 * @return true if dateTo < dateFrom, else return false.
 	 */
 	public static boolean isDateFromTo(String dateTo, String dateFrom, String pattern) {
+		//Check if the date string input is valid date pattern format. Return true if invalid.
 		if (!isDate(dateTo, pattern) || !isDate(dateFrom, pattern)) {
-			return false;
+			return true;
 		}
 		
 		int result = DateUtils.compareDate(dateTo, dateFrom, pattern);
 		
-		if (result == -1) {
+		if (result == -1 || result == -2) {
 			return true;
 		}
 		return false;

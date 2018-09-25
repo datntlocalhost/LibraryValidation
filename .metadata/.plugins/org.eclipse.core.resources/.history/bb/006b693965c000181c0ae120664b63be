@@ -1,0 +1,67 @@
+package jp.co.run;
+
+import java.text.DateFormat;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class DateValid {
+
+	public static boolean isDate(String date, String pattern) {
+		DateFormat dateFormat = new SimpleDateFormat(pattern);
+			
+		try {
+			dateFormat.parse(date.trim());
+		} catch (ParseException e) {
+			return false;
+		}
+		
+		return true;
+	}
+	
+	/**
+	 * Check if date to is larger than date from.
+	 * 
+	 * @param dateTo
+	 *        Date object to check.
+	 * @param dateFrom
+	 *        Date object to check.
+	 * @return true if dateTo < dateFrom, else return false.
+	 */
+	public static boolean isDateFromTo(Date dateTo, Date dateFrom) {
+		int result = DateUtils.compareDate(dateTo, dateFrom);
+		
+		if (result == -1) {
+			return true;
+		}
+		return false;
+	}
+	
+	/**
+	 * Check if date to is larger than date from.
+	 * 
+	 * @param dateTo
+	 *        Date string to check.
+	 * @param dateFrom
+	 *        Date string to check.
+	 * @param pattern
+	 *        The pattern for simple date format.
+	 * @return true if dateTo < dateFrom, else return false.
+	 */
+	public static boolean isDateFromTo(String dateTo, String dateFrom, String pattern) {
+		if (!isDate(dateTo, pattern) || !isDate(dateFrom, pattern)) {
+			return false;
+		}
+		
+		int result = DateUtils.compareDate(dateTo, dateFrom, pattern);
+		
+		if (result == -1) {
+			return true;
+		}
+		return false;
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(isDate("2018-2018-2018", "dd/MM/yyyy"));
+	}
+}

@@ -1,0 +1,32 @@
+package jp.co.run;
+
+import java.util.List;
+
+public class StringUtils {
+
+	/**
+	 * Convert object to string, if object is null, convert to "null" string.
+	 * 
+	 * @param obj
+	 * @param "null" string if object is null, else convert object to string.
+	 */
+	public static String nullToString(Object obj) {
+		if (obj == null) {
+			return "null";
+		}
+		return obj.toString();
+	}
+	
+	/**
+	 * Convert object to string, if object is null, convert to "zero" string.
+	 * 
+	 * @param obj
+	 * @param "zero" string if object is null, else convert object to string.
+	 */
+	public static String nullToZero(Object obj) {
+		if (obj == null) {
+			return "zero";
+		}
+		return obj.toString();
+	}
+}

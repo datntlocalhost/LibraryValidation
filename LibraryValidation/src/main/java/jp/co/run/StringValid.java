@@ -3,14 +3,36 @@ package jp.co.run;
 public class StringValid {
 	
 	/**
-	 * Check a string is empty or null.
+	 * Check a string is null.
 	 * 
 	 * @param str
-	 *        The string to check, maybe null.
-	 * @return true if the string is empty or null, else return false.
+	 *        The string to check.
+	 * @return true if the string is null, else return false.
+	 */
+	public static boolean isNull(String str) {
+		return str == null;
+	}
+	
+	/**
+	 * Check a string is empty.
+	 * 
+	 * @param str
+	 *        The string to check.
+	 * @return true if the string is empty, else return false.
 	 */
 	public static boolean isEmpty(String str) {
-		return str == null || str.length() == 0;
+		return !isNull(str) && str.length() == 0;
+	}
+	
+	/**
+	 * Check if a string is null or empty.
+	 * 
+	 * @param str
+	 *        The string to check, may be null.
+	 * @return true if the string is null or empty, else return false.
+	 */
+	public static boolean isNullOrEmpty(String str) {
+		return isNull(str) || isEmpty(str);
 	}
 	
 	/**
@@ -21,24 +43,19 @@ public class StringValid {
 	 * @return true if the string is NOT empty and NOT null, else return false.
 	 */
 	public static boolean isNotEmpty(String str) {
-		return !str.isEmpty();
+		return !isNull(str) && !str.isEmpty();
 	}
 
 	/**
-	 * Check a string is whitespace, empty or null.
+	 * Check a string is whitespace, empty.
 	 * 
 	 * @param str
 	 *        The string to check, maybe null.
-	 * @return true if the string is null, empty or whitespace, else return false.
+	 * @return true if the string is empty or whitespace, else return false.
 	 */
 	public static boolean isBlank(String str) {
 		String regex = "^[ ]*$";
-		
-		if (isEmpty(str)) {
-			return true;
-		}
-		
-		return str.matches(regex);
+		return !isNull(str) && str.matches(regex);
 	}
 	
 	/**
@@ -47,22 +64,20 @@ public class StringValid {
 	 * @param str
 	 *        The string to check, maybe null.
 	 * @return true if the string is NOT empty, NOT null and NOT whitespace, else return false.
-	 * */
+	 */
 	public static boolean isNotBlank(String str) {
-		return !isBlank(str);
+		return !isNull(str) && !isBlank(str);
 	}
 	
 	/**
 	 * @param str
+	 *        The string to check is max length.
 	 * @param maxLength 
-	 * 
-	 * @return true 
-	 * */
+	 *        Max length to check. The max length have to larger than zero.
+	 * @return true if the length of string is equal max length. Else return false.
+	 */
 	public static boolean isMaxLength(String str, int maxLength) {
-		
-		int length = str.length();
-		
-		return length == maxLength;
+		return !isNull(str) && maxLength > 0 && str.length() == maxLength;
 	}
 	
 	/**
@@ -111,10 +126,51 @@ public class StringValid {
 		return false;
 	}
 	
+	/**
+	 * Check if a character is double-byte character.
+	 * 
+	 * @param c
+	 *        The character to check.
+	 * @return true if c is double-byte character. Else return false.
+	 */
+	public static boolean isCharacterTwoByte(char c) {
+		int result = c & 0xff00;
+		
+		if (result > 0) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	/**
+	 * Check if a string is contain double-byte character.
+	 * 
+	 * @param str
+	 *        The string to check.
+	 * @return true if the string is contain double-byte character.
+	 *         return false if the string is null or empty or not contain double-byte character.
+	 */
+	public static boolean isCharacterTwoByte(String str) {
+		if (isNullOrEmpty(str)) {
+			return false;
+		}
+		
+		char[] array = str.toCharArray();
+		
+		for (int i = 0; i < array.length; i++) {
+			if (isCharacterTwoByte(array[i])) {
+				return true;
+			}
+		}
+		return false;
+	}
+	
 	public static void main(String[] args) {
-		System.out.println(isKatakana('ア'));
-		System.out.println(isHiragana('ぁ'));
-		System.out.println(isHiragana('ア'));
-		System.out.println(isKanji('䦞'));
+		System.out.println(isCharacterTwoByte('全'));
+		System.out.println(isCharacterTwoByte('ａ'));
+		System.out.println(isCharacterTwoByte('a'));
+		System.out.println(isCharacterTwoByte(null));
+		System.out.println(isCharacterTwoByte("全全全全全a"));
 	}
 }

@@ -1,0 +1,132 @@
+package jp.co.run;
+
+public class StringValid {
+	
+	/**
+	 * Check a string is null.
+	 * 
+	 * @param str
+	 *        The string to check.
+	 * @return true if the string is null, else return false.
+	 */
+	public static boolean isNull(String str) {
+		return str == null;
+	}
+	
+	/**
+	 * Check a string is empty.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is empty, else return false.
+	 */
+	public static boolean isEmpty(String str) {
+		return !isNull(str) && str.length() == 0;
+	}
+	
+	/**
+	 * Check if a string is null or empty.
+	 * 
+	 * @param str
+	 *        The string to check, may be null.
+	 * @return true if the string is null or empty, else return false.
+	 */
+	public static boolean isNullOrEmpty(String str) {
+		return isNull(str) || isEmpty(str);
+	}
+	
+	/**
+	 * Check a string is not empty and not null.
+	 * 
+	 * @param str
+	 *        The string to check, may be null.
+	 * @return true if the string is NOT empty and NOT null, else return false.
+	 */
+	public static boolean isNotEmpty(String str) {
+		return !isNull(str) && !str.isEmpty();
+	}
+
+	/**
+	 * Check a string is whitespace, empty.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is null, empty or whitespace, else return false.
+	 */
+	public static boolean isBlank(String str) {
+		String regex = "^[ ]*$";
+		return !isNull(str) && str.matches(regex);
+	}
+	
+	/**
+	 * Check a string is NOT empty, NOT null and NOT whitespace only.
+	 * 
+	 * @param str
+	 *        The string to check, maybe null.
+	 * @return true if the string is NOT empty, NOT null and NOT whitespace, else return false.
+	 */
+	public static boolean isNotBlank(String str) {
+		return !isBlank(str);
+	}
+	
+	/**
+	 * @param str
+	 *        The string to check is max length.
+	 * @param maxLength 
+	 *        Max length to check. The max length have to larger than zero.
+	 * @return true if the length of string is equal max length. Else return false.
+	 */
+	public static boolean isMaxLength(String str, int maxLength) {
+		return !isNull(str) && maxLength > 0 && str.length() == maxLength;
+	}
+	
+	/**
+	 * Check if character is katakana character.
+	 * The Unicode block for (full-width) katakana is U+30A0–U+30FF.
+	 * 
+	 * @param c
+	 *        The character to check.
+	 * @return true if character is karakana, else return false.
+	 */
+	public static boolean isKatakana(char c) {
+		if (c >= 0x30A0 && c <= 0x30FF) {
+			return true;
+		}
+		return false;
+	}
+	
+	/**
+	 * Check if character is hiragana character.
+	 * The Unicode block for Hiragana is U+3040–U+309F
+	 * 
+	 * @param c
+	 *        The character to check.
+	 * @return true if character is hiragana, else return false.
+	 * */
+	public static boolean isHiragana(char c) {
+		if (c >= 0x3040 && c <= 0x309F) {
+			return true;
+		}
+		return false;
+	}
+	
+	/**
+	 * Check if character is kanji.
+	 * The Unicode block for Common and Uncommon Kanji is U+4E00–U+9FAF
+	 * The Unicode block for Rare Kanji is U+3400–U+4DBF
+	 * 
+	 * @param c
+	 *        The character to check.
+	 * @return true if character is kanji, else return false.
+	 */
+	public static boolean isKanji(char c) {
+		if ((c >= 0x4e00 && c <= 0x9faf) || (c >= 0x3400 && c <= 0x4dbf)) {
+			return true;
+		}
+		return false;
+	}
+	
+	public static void main(String[] args) {
+		System.out.println(isBlank("     a      "));
+	}
+}
