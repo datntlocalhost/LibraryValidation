@@ -1,0 +1,32 @@
+package jp.test.run;
+
+import org.junit.Test;
+
+import jp.co.run.DateValid;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertNotEquals;
+import static org.junit.Assert.assertNotNull;
+
+public class DateTest {
+	
+	@Test
+	public void testIsDate() {
+		ass
+		assertEquals(false, DateValid.isDate(null, null));
+		assertEquals(true, DateValid.isDate(null, null));
+	}
+	
+	@Test
+	public void testConvertStringToDate() {
+		
+	}
+	
+	@Test
+	public void testCompareDate() {
+		
+	}
+
+}

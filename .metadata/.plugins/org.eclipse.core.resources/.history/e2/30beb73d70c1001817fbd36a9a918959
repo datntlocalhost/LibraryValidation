@@ -1,0 +1,37 @@
+package jp.test.run;
+
+import static jp.co.run.NumberValid.*;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class NumberValidTest extends TestCase {
+
+	@Test
+	public void testIsNumber() {
+		assertEquals(true, isNumber("123456"));
+		assertEquals(true, isNumber("123456.123"));
+		assertEquals(true, isNumber("+123456"));
+		assertEquals(true, isNumber("-123456"));
+		assertEquals(true, isNumber("+123456.123"));
+		assertEquals(true, isNumber("-123456.123"));
+		assertEquals(true, isNumber(".123"));
+		assertEquals(true, isNumber("-.123"));
+		
+		assertEquals(false, isNumber(null));
+		assertEquals(false, isNumber(""));
+		assertEquals(false, isNumber("123a"));
+	}
+
+	@Test
+	public void testIsIntegerNumber() {
+		
+	}
+
+	@Test
+	public void testIsFloatNumber() {
+		
+	}
+
+}

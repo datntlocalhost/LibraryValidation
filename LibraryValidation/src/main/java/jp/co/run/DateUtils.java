@@ -79,7 +79,7 @@ public class DateUtils {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
+		if (!DateValid.isDatePattern(pattern)) {
 			return dateString.toString();
 		}
 		
@@ -128,7 +128,7 @@ public class DateUtils {
 		StringBuffer currentDate = new StringBuffer();	
 		Calendar calendar = new GregorianCalendar();
 		
-		if (StringValid.isNullOrEmpty(pattern) || StringValid.isNullOrEmpty(timeZone)) {
+		if (!DateValid.isDatePattern(pattern) || !DateValid.isTimeZone(timeZone)) {
 			return currentDate.toString();
 		}
 		
@@ -163,7 +163,7 @@ public class DateUtils {
 			return dateString.toString();
 		}
 		
-		if (StringValid.isNullOrEmpty(pattern)) {
+		if (!DateValid.isDatePattern(pattern)) {
 			return dateString.toString();
 		}
 		

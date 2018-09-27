@@ -7,6 +7,40 @@ import java.util.Date;
 public class DateValid {
 
 	/**
+	 * Check if a string pattern is valid date pattern format.
+	 * 
+	 * @param pattern
+	 *        The date pattern string to check.
+	 * @return true if the pattern string is valid format. Else return <b>false</b>.
+	 */
+	public static boolean isDatePattern(String pattern) {
+		String regex ="^(([dM]{1,2}([ ./-]{1})?[dM]{1,2}([ ./-]{1})?([y]{1,4})?)|(([y]{1,4})?([ ./-]{1})?[dM]{1,2}([ ./-]{1})?[dM]{1,2}))$";
+		
+		if (StringValid.isNullOrEmpty(pattern)) {
+			return false;
+		}
+		
+		return pattern.matches(regex);
+	}
+	
+	/**
+	 * Check if the time zone is valid format.
+	 * 
+	 * @param timeZone
+	 *        The time zone string to check.
+	 * @return <b>true</b> if the timeZone is valid time zone format.<br>Else return <b>false</b>
+	 */
+	public static boolean isTimeZone(String timeZone) {
+		String regex = "^([a-zA-Z]*([/][_a-zA-Z]+)?)$";
+		
+		if (StringValid.isNullOrEmpty(timeZone)) {
+			return false;
+		}
+		
+		return timeZone.matches(regex);
+	}
+	
+	/**
 	 * Check if date string input is valid date parttern format.
 	 * 
 	 * @param date
@@ -17,7 +51,7 @@ public class DateValid {
 	 */
 	public static boolean isDate(String date, String pattern) {
 		//Check if date and pattern string is null or empty, then return false.
-		if (StringValid.isNullOrEmpty(date) || StringValid.isNullOrEmpty(pattern)) {
+		if (StringValid.isNullOrEmpty(date) || !isDatePattern(pattern)) {
 			return false;
 		}
 		

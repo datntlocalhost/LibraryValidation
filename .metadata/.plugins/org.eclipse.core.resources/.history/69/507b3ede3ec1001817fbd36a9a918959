@@ -1,0 +1,10 @@
+package jp.co.run;
+
+public class Test {
+
+	@org.junit.Test
+	public void testString() {
+		
+		
+	}
+}

@@ -1,0 +1,19 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class FileValidTest {
+
+	@Test
+	public void testIsFile() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsDirectory() {
+		fail("Not yet implemented");
+	}
+
+}

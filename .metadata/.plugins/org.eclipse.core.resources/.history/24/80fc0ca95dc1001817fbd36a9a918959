@@ -1,0 +1,39 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DateUtilsTest {
+
+	@Test
+	public void testCompareDateStringStringString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testCompareDateDateDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testConvertDateToString() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testConvertStringToDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetCurrentDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetLastDayOfMonth() {
+		fail("Not yet implemented");
+	}
+
+}

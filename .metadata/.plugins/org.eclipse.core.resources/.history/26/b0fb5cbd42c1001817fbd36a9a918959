@@ -1,0 +1,19 @@
+package jp.co.run;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+
+public class MyTest {
+
+	@Test
+	public void testEmail() {
+		assertEquals(true, EmailValid.isEmail("datnt@gmail.com"));
+		assertEquals(false, EmailValid.isEmail("datntgmail.com"));
+	}
+	
+	@Test
+	public void testString() {
+		
+	}
+}

@@ -1,0 +1,39 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DateUtilsTest {
+
+	@Test
+	public void testCompareDateStringStringString() {
+		
+	}
+
+	@Test
+	public void testCompareDateDateDate() {
+		
+	}
+
+	@Test
+	public void testConvertDateToString() {
+		
+	}
+
+	@Test
+	public void testConvertStringToDate() {
+		
+	}
+
+	@Test
+	public void testGetCurrentDate() {
+		
+	}
+
+	@Test
+	public void testGetLastDayOfMonth() {
+		
+	}
+
+}

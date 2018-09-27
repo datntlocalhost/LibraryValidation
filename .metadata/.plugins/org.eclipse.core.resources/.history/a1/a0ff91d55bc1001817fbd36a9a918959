@@ -1,0 +1,44 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import java.util.Date;
+
+import static jp.co.run.DateValid.*;
+
+import org.junit.Test;
+
+public class DateValidTest {
+
+	@Test
+	public void testIsDate() {
+		assertFalse(isDate(null, null));
+		assertFalse(isDate("", ""));
+		assertFalse(isDate("07/2018", "dd/MM"));
+		assertTrue(isDate("2018-08-07", "yyyy-MM-dd"));
+	}
+
+	@Test
+	public void testIsFormatDate() {
+		assertFalse(isFormatDate("2018/30/30", "yyyy/MM/dd"));
+		assertTrue(isFormatDate("07/07/2018", "dd/MM/yyyy"));
+	}
+
+	@Test
+	public void testIsDateFromToDateDate() {
+		Date date1 = new Date();
+		Date date2 = new Date();
+		Date date3 = new Date(date2.getTime() + 1000);
+		
+		assertFalse(isDateFromTo(null, null));
+		assertFalse(isDateFromTo(date1, date1));
+		assertFalse(isDateFromTo(date3, date2));
+		assertTrue(isDateFromTo(date1, date3));
+	}
+
+	@Test
+	public void testIsDateFromToStringStringString() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,12 @@
+package jp.co.run;
+
+import static junit.framework.Assert.assertEquals;
+
+public class Test {
+
+	@org.junit.Test
+	public void testString() {
+		
+		
+	}
+}

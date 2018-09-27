@@ -1,0 +1,11 @@
+package jp.co.run;
+
+import static org.junit.Assert.assertEquals;
+import jp.co.run.*;
+
+public class Test {
+
+	@org.junit.Test
+	public void testString() {
+	}
+}

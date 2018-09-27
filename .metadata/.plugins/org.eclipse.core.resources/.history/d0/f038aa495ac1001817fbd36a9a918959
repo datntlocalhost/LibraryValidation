@@ -1,0 +1,29 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class DateTest {
+
+	@Test
+	public void testIsDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsFormatDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsDateFromToDateDate() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testIsDateFromToStringStringString() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,19 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StringUtilsTest {
+
+	@Test
+	public void testNullToString() {
+		
+	}
+
+	@Test
+	public void testNullToZero() {
+		
+	}
+
+}

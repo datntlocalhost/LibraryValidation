@@ -1,0 +1,21 @@
+package jp.test.run;
+
+import static jp.co.run.FileValid.*;
+
+import org.junit.Test;
+
+import junit.framework.TestCase;
+
+public class FileValidTest extends TestCase {
+
+	@Test
+	public void testIsFile() {
+		assertEquals(true, isFile("C:\\Users\\datnt\\OneDrive\\Documents", "test.txt"));
+	}
+
+	@Test
+	public void testIsDirectory() {
+		fail("Not yet implemented");
+	}
+
+}

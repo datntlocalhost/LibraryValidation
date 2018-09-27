@@ -1,0 +1,8 @@
+package jp.co.run;
+
+public class Test {
+
+	public void testString() {
+		
+	}
+}

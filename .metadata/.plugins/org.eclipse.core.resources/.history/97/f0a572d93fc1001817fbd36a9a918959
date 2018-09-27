@@ -1,0 +1,10 @@
+package jp.co.run;
+
+import jp.co.run.EmailValid;
+
+public class Main {
+
+	public static void main(String[] args) {
+		isEmail("");
+	}
+}

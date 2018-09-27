@@ -1,0 +1,14 @@
+package jp.test.run;
+
+import org.junit.runner.JUnitCore;
+import org.junit.runner.Result;
+
+import jp.co.run.MyTest;
+
+public class MainTest {
+	
+	public static void main(String[] args) {
+		Result result = JUnitCore.runClasses(MyTest.class);
+	}
+
+}
