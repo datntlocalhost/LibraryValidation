@@ -1,0 +1,68 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StringValidTest {
+
+	@Test
+	public void testIsNull() {
+		
+	}
+
+	@Test
+	public void testIsEmpty() {
+		
+	}
+
+	@Test
+	public void testIsNullOrEmpty() {
+		
+	}
+
+	@Test
+	public void testIsNotEmpty() {
+		
+	}
+
+	@Test
+	public void testIsBlank() {
+		
+	}
+
+	@Test
+	public void testIsNotBlank() {
+		
+	}
+
+	@Test
+	public void testIsMaxLength() {
+		
+	}
+
+	@Test
+	public void testIsKatakana() {
+		
+	}
+
+	@Test
+	public void testIsHiragana() {
+		
+	}
+
+	@Test
+	public void testIsKanji() {
+	}
+
+	@Test
+	public void testIsCharacterTwoByteChar() {
+		
+	}
+
+	@Test
+	public void testIsCharacterTwoByteString() {
+		
+	}
+
+}

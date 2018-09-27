@@ -1,0 +1,14 @@
+package jp.test.run;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class StringUtilsTest {
+
+	@Test
+	public void testNullToZero() {
+		fail("Not yet implemented");
+	}
+
+}

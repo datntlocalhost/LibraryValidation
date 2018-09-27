@@ -6949,3 +6949,496 @@
 2018-09-26 18:24:55,681 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
 2018-09-26 18:24:55,687 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2018-09-26 18:24:55,698 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:40:39,267 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:40:39,276 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:40:39,279 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:40:39,285 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:41:03,464 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:41:03,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:41:03,476 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:41:03,485 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:41:46,950 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:41:46,955 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:41:46,957 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:41:46,962 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:42:08,324 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:42:08,332 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:42:08,333 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:42:08,339 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:43:01,433 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:01,443 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:43:01,445 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:01,454 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:43:05,851 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:05,866 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:43:05,871 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:05,877 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:43:15,621 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:15,633 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:43:15,634 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:43:15,644 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:44:48,474 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:44:48,484 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:44:48,490 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:44:48,498 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:45:10,471 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:45:10,476 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:45:10,478 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:45:10,483 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:45:31,305 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:45:31,319 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:45:31,324 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:45:31,330 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:49:45,377 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-27 08:49:48,156 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.co.run.common:LibraryValidation:0.0.1-SNAPSHOT @ C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\pom.xml.
+2018-09-27 08:49:48,526 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibraryValidation/src/main/java
+2018-09-27 08:49:48,527 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LibraryValidation/src/test/java
+2018-09-27 08:49:48,688 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2018-09-27 08:49:49,034 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:49:49,048 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:49:49,056 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:49:49,070 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:51:20,492 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:20,497 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:51:20,498 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:20,508 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:51:33,860 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:33,871 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:51:33,878 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:33,888 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:51:34,961 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:34,974 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:51:34,975 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:34,990 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:51:51,464 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:51,474 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:51:51,480 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:51:51,490 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:52:10,976 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:10,984 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:52:10,986 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:11,001 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:52:19,812 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:19,824 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:52:19,830 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:19,842 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:52:26,745 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:26,754 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:52:26,756 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:26,766 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:52:30,870 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:30,884 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:52:30,891 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:30,899 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:52:47,374 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:47,389 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:52:47,391 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:52:47,407 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:53:00,511 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:00,521 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:53:00,526 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:00,537 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:53:04,994 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:05,004 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:53:05,005 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:05,015 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:53:24,012 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:24,028 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:53:24,033 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:24,043 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:53:26,964 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:26,970 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:53:26,971 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:26,980 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:53:43,377 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:43,390 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:53:43,395 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:53:43,409 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:54:52,305 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:54:52,313 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:54:52,315 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:54:52,327 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 08:56:00,989 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:56:01,008 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 08:56:01,013 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 08:56:01,027 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:03:51,624 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:03:51,633 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:03:51,634 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:03:51,643 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:10:11,955 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:11,989 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:10:12,000 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:12,019 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:10:30,787 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:30,795 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:10:30,796 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:30,807 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:10:37,877 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:37,890 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:10:37,895 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:37,905 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:10:54,419 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:54,425 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:10:54,425 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:10:54,436 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:11:09,491 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:09,505 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:11:09,509 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:09,519 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:11:37,535 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:37,544 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:11:37,546 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:37,561 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:11:41,905 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:41,916 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:11:41,921 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:41,931 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:11:50,894 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:50,904 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:11:50,905 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:11:50,915 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:12:02,998 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:03,013 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:12:03,019 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:03,032 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:12:16,913 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:16,918 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:12:16,919 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:16,932 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:12:43,275 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:43,291 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:12:43,296 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:43,308 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:12:59,534 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:59,543 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:12:59,544 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:12:59,558 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:13:14,803 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:14,819 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:13:14,825 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:14,836 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:13:21,950 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:21,958 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:13:21,959 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:21,972 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:13:24,732 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:24,747 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:13:24,752 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:24,763 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:13:27,091 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:27,100 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:13:27,101 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:27,115 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:13:47,695 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:47,700 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:13:47,706 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:13:47,716 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:04,485 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:04,493 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:04,493 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:04,504 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:08,291 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:08,304 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:08,309 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:08,319 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:12,467 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:12,475 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:12,476 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:12,486 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:18,652 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:18,665 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:18,671 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:18,684 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:23,772 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:23,780 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:23,782 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:23,795 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:38,470 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:38,480 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:38,485 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:38,495 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:14:45,548 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:45,561 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:14:45,562 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:14:45,574 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:06,475 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:06,491 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:06,498 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:06,509 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:08,675 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:08,682 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:08,683 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:08,693 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:13,561 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:13,578 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:13,588 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:13,602 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:26,451 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:26,457 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:26,458 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:26,470 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:31,916 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:31,926 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:31,931 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:31,944 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:38,656 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:38,667 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:38,668 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:38,678 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:15:41,944 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:41,958 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:15:41,964 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:15:41,973 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:16:16,833 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:16:16,842 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:16:16,843 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:16:16,857 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:16:34,365 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:16:34,377 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:16:34,381 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:16:34,392 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:17:01,658 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:01,664 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:17:01,664 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:01,674 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:17:06,585 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:06,596 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:17:06,601 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:06,611 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:17:18,508 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:18,515 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:17:18,516 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:18,528 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:17:40,041 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:40,054 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:17:40,060 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:17:40,070 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:19:47,801 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:19:47,806 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:19:47,807 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:19:47,817 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:19:58,235 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:19:58,249 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:19:58,255 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:19:58,265 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:20:11,670 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:11,676 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:20:11,677 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:11,686 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:20:19,126 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:19,141 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:20:19,146 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:19,156 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:20:37,947 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:37,953 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:20:37,954 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:37,964 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:20:43,470 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:43,487 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:20:43,496 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:20:43,510 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:21:42,964 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:21:42,983 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:21:42,984 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:21:42,996 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:21:52,964 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:21:52,978 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:21:52,983 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:21:52,994 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:22:39,937 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:22:39,948 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:22:39,953 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:22:39,963 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:23:22,812 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:23:22,825 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:23:22,830 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:23:22,840 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:23:26,986 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:23:26,994 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:23:26,994 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:23:27,004 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:24:35,158 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:24:35,173 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:24:35,178 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:24:35,188 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:25:49,848 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:25:49,856 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:25:49,857 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:25:49,866 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:26:13,643 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:26:13,658 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:26:13,665 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:26:13,677 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:26:17,739 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:26:17,748 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:26:17,749 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:26:17,762 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:27:03,903 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:27:03,918 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:27:03,924 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:27:03,933 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:27:23,232 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:27:23,240 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:27:23,242 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:27:23,252 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:28:33,279 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:33,296 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:28:33,301 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:33,311 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:28:34,722 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:34,730 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:28:34,731 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:34,748 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:28:54,018 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:54,031 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:28:54,036 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:28:54,045 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:29:00,122 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:00,128 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:29:00,129 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:00,141 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:29:07,906 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:07,923 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:29:07,931 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:07,940 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:29:12,283 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:12,293 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:29:12,294 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:29:12,304 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:30:24,431 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:24,450 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:30:24,455 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:24,467 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:30:37,391 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:37,405 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:30:37,405 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:37,416 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:30:54,336 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:54,352 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:30:54,360 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:30:54,372 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:31:11,436 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:11,445 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:31:11,447 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:11,458 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:31:13,282 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:13,296 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:31:13,303 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:13,317 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:31:56,629 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:56,636 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:31:56,636 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:31:56,646 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:32:15,543 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:32:15,554 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:32:15,561 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:32:15,575 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:32:18,439 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:32:18,448 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:32:18,449 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:32:18,459 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:33:06,177 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:33:06,187 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:33:06,192 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:33:06,202 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:33:48,647 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:33:48,656 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:33:48,657 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:33:48,666 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:08,753 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:08,766 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:08,772 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:08,782 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:13,018 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:13,023 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:13,024 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:13,035 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:16,001 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:16,016 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:16,021 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:16,031 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:26,719 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:26,727 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:26,728 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:26,740 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:37,421 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:37,439 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:37,446 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:37,455 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:39,087 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:39,093 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:39,094 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:39,106 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 09:34:48,022 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:48,032 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 09:34:48,037 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 09:34:48,047 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:00:21,811 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:21,818 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:00:21,819 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:21,829 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:00:31,178 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:31,193 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:00:31,198 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:31,208 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:00:42,607 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:42,616 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:00:42,617 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:00:42,632 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:01:04,287 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:04,302 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:01:04,310 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:04,321 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:01:20,822 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:20,830 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:01:20,831 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:20,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:01:35,540 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:35,552 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:01:35,557 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:35,567 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:01:38,363 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:38,368 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:01:38,369 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:38,378 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:01:51,764 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:51,776 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:01:51,782 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:01:51,792 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:03:03,653 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:03:03,659 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:03:03,660 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:03:03,669 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:05:10,213 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:10,226 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:05:10,230 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:10,240 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:05:34,302 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:34,309 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:05:34,311 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:34,323 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:05:38,044 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:38,067 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:05:38,074 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:05:38,085 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:06:10,607 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:06:10,614 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:06:10,615 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:06:10,625 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:15:43,979 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:15:43,988 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:15:43,993 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:15:44,002 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:15:48,624 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:15:48,631 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:15:48,632 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:15:48,642 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:27:26,529 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:27:26,542 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:27:26,548 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:27:26,558 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources
+2018-09-27 10:27:43,126 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:27:43,132 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\main\resources
+2018-09-27 10:27:43,132 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-09-27 10:27:43,144 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\datnt\OneDrive\Documents\Develop\Java\LibraryValidation\LibraryValidation\src\test\resources

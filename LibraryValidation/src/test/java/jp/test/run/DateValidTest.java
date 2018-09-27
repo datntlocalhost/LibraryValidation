@@ -9,7 +9,23 @@ import org.junit.Test;
 import junit.framework.TestCase;
 
 public class DateValidTest extends TestCase{
-
+	
+	Date date1;
+	Date date2;
+	Date date3; 
+	
+	@Override
+	protected void setUp() throws Exception {
+		long time = System.currentTimeMillis();
+		date1 = new Date(time);
+		date2 = new Date(time);
+		date3 = new Date(time + 1000);
+	}
+	
+	@Override
+	protected void tearDown() throws Exception {
+	}
+	
 	@Test
 	public void testIsDate() {
 		assertFalse(isDate(null, null));
@@ -25,13 +41,7 @@ public class DateValidTest extends TestCase{
 	}
 
 	@Test
-	public void testIsDateFromToDateDate() {
-		long time = System.currentTimeMillis();
-		
-		Date date1 = new Date(time);
-		Date date2 = new Date(time);
-		Date date3 = new Date(time + 1000);
-		
+	public void testIsDateFromToDateDate() {		
 		assertTrue(isDateFromTo(null, null));
 		assertFalse(isDateFromTo(date1, date2));
 		assertFalse(isDateFromTo(date3, date2));

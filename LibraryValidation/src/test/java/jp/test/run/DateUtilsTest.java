@@ -11,7 +11,7 @@ public class DateUtilsTest extends TestCase{
 
 	@Test
 	public void testConvertDateToString() {
-		assertEquals("2018-09-26", convertDateToString(new Date(), "yyyy-MM-dd"));
+		assertEquals("2018-09-27", convertDateToString(new Date(), "yyyy-MM-dd"));
 		assertEquals("", convertDateToString(null, ""));
 		assertEquals("", convertDateToString(new Date(), null));
 	}
@@ -26,7 +26,7 @@ public class DateUtilsTest extends TestCase{
 		assertEquals("", getCurrentDate("", "Asia/Tokyo"));
 		assertEquals("", getCurrentDate("dd/MM/yyyy", null));
 		assertEquals("", getCurrentDate("dd/MM/yyyy", "123123123"));
-		assertEquals("2018-09-26", getCurrentDate("yyyy-MM-dd", "Asia/Tokyo"));
+		assertEquals("2018-09-27", getCurrentDate("yyyy-MM-dd", "Asia/Tokyo"));
 	}
 
 	@Test
